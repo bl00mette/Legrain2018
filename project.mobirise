@@ -6100,6 +6100,9 @@
             },
             ".mbr-timeline-text": {
               "text-align": "center"
+            },
+            ".mbr-timeline-title": {
+              "text-align": "center"
             }
           },
           "_name": "timeline2",
