@@ -1,16 +1,33 @@
-@font-face {
-   font-family: 'Kozuka Gothic Pro H';
-   src: url('Kozuka Gothic Pro H/font.ttf');
+@font-face {font-family: "Kozuka Gothic Pro H";
+    src: url("//db.onlinewebfonts.com/t/1d2c4034fdca94e326f1f571a2634154.eot");
+    src: url("//db.onlinewebfonts.com/t/1d2c4034fdca94e326f1f571a2634154.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/1d2c4034fdca94e326f1f571a2634154.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/1d2c4034fdca94e326f1f571a2634154.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/1d2c4034fdca94e326f1f571a2634154.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/1d2c4034fdca94e326f1f571a2634154.svg#Kozuka Gothic Pro H") format("svg");
 }
-@font-face {
-   font-family: 'Kozuka Gothic Pro M';
-   src: url('Kozuka Gothic Pro M/font.ttf');
+@font-face {font-family: "Kozuka Gothic Pro M";
+    src: url("//db.onlinewebfonts.com/t/5059a959846be498d201e15c200fe542.eot");
+    src: url("//db.onlinewebfonts.com/t/5059a959846be498d201e15c200fe542.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/5059a959846be498d201e15c200fe542.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/5059a959846be498d201e15c200fe542.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/5059a959846be498d201e15c200fe542.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/5059a959846be498d201e15c200fe542.svg#Kozuka Gothic Pro") format("svg");
 }
-@font-face {
-   font-family: 'Kozuka Gothic Pro L';
-   src: url('Kozuka Gothic Pro L/font.ttf');
+@font-face {font-family: "Kozuka Gothic Pro L";
+    src: url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.eot");
+    src: url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.svg#Kozuka Gothic Pro L") format("svg");
 }
 @font-face {
    font-family: 'Kozuka Gothic Std L';
-   src: url('Kozuka Gothic Std L/font.ttf');
+   src: url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.eot");
+    src: url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.svg#Kozuka Gothic Std") format("svg");
 }
