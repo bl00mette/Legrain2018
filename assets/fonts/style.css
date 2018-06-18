@@ -1,8 +1,16 @@
 @font-face {
-   font-family: 'CALIBRIB';
-   src: url('CALIBRIB/font.TTF');
+   font-family: 'Kozuka Gothic Pro H';
+   src: url('Kozuka Gothic Pro H/font.ttf');
 }
 @font-face {
-   font-family: 'Calibri';
-   src: url('Calibri/font.ttf');
+   font-family: 'Kozuka Gothic Pro M';
+   src: url('Kozuka Gothic Pro M/font.ttf');
+}
+@font-face {
+   font-family: 'Kozuka Gothic Pro L';
+   src: url('Kozuka Gothic Pro L/font.ttf');
+}
+@font-face {
+   font-family: 'Kozuka Gothic Std L';
+   src: url('Kozuka Gothic Std L/font.ttf');
 }
