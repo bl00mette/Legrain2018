@@ -1,4 +1,9 @@
 @font-face {
    font-family: 'Kozuka Gothic Std L';
-   src: url('file:///C:/Users/Bloom/AppData/Local/Mobirise.com/Mobirise/projects/project-2018-06-01_173531/fonts/Kozuka%20Gothic%20Std%20L/font.ttf');
+   src: url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.eot");
+    src: url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/47490efbbf702b2ddf45a112b37e56ff.svg#Kozuka Gothic Std") format("svg");
 }
