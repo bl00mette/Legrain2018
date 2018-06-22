@@ -1,9 +1,4 @@
 @font-face {
    font-family: 'Kozuka Gothic Pro L';
-   src: url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.eot");
-    src: url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.eot?#iefix") format("embedded-opentype"),
-    url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.woff2") format("woff2"),
-    url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.woff") format("woff"),
-    url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.ttf") format("truetype"),
-    url("//db.onlinewebfonts.com/t/ec8e79b907b1bf66ae11c2cfcf491e5d.svg#Kozuka Gothic Pro L") format("svg");
+   src: url('file:///C:/Users/Bloom/AppData/Local/Mobirise.com/Mobirise/projects/project-2018-06-01_173531/fonts/Kozuka%20Gothic%20Pro%20L/font.ttf');
 }
